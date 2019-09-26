@@ -1,6 +1,6 @@
 .link-ae {
   color: #FFFFFF;
-    padding-right: 70px;
+    padding-right: 50px;
     font-size:14px;
 }
 
@@ -8,6 +8,6 @@
   color: #FFFFFF;
     font-size: 20px;
       text-shadow: 2px 2px 5px #ffffff;
-    padding-right: 50px;
+    padding-right: 100px;
 }
 
