@@ -1,3 +1,7 @@
+body{
+    background-color: slategrey;
+}
+
 .link-ae {
   color: #FFFFFF;
     padding-right: 70px;
@@ -11,3 +15,6 @@
     padding-right: 50px;
 }
 
+.navbar_button_ae{
+    background-color: 000000;
+}
