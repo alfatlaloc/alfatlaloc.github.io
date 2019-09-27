@@ -18,3 +18,18 @@ body{
 .navbar_button_ae{
     background-color: 000000;
 }
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: -7px;
+
+  & > [class^="col-"],
+  & > [class*=" col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.ae_sidebar{
+    border-radius: 10px;
+}
