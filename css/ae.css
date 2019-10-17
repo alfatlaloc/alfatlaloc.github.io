@@ -1,0 +1,14 @@
+.title-bar
+{
+    padding-top: 5px;
+    text-align: center;
+    color:white;
+    
+}
+
+.page-heading
+{
+    background-color:#6a96ab;
+    border-radius: 15px;
+    align-content: center;
+}
