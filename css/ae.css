@@ -8,7 +8,14 @@
 
 .page-heading
 {
-    background-color:#6a96ab;
+    background-color:#327cd1;
     border-radius: 15px;
     align-content: center;
+}
+
+.img-center
+{
+    align-content: center;
+    text-align: center;
+    
 }
